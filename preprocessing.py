@@ -16,8 +16,6 @@ from keras.models import Model
 from keras.layers.core import Activation
 from keras.layers import Dropout
 
-from scipy.stats import skew
-
 
 def mytfidf(data,tfidf,fit=False):
     if fit ==True:
