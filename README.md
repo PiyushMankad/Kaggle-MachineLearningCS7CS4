@@ -4,8 +4,8 @@ I have used a functional programming approach and tried to make several files bu
 preprocessing.py Should run out of the box on a windows machine in Spyder(Python 3.7)
 
 One should have the following libraries:
-    Tensorflow
-    Keras
-    Sklearn
-    numpy
-    pandas
+Tensorflow
+Keras
+Sklearn
+numpy
+pandas
